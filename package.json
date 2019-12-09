@@ -1,0 +1,26 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "node based RESTFUL api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-api"
+  },
+  "keywords": [
+    "node",
+    "RESTFUL",
+    "api",
+    "backend",
+    "javascript",
+    "js"
+  ],
+  "author": "alxmrd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
