@@ -21,6 +21,8 @@
   "author": "alxmrd",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mongodb": "^3.3.5"
   }
 }
